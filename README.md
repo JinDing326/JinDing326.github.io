@@ -6,4 +6,4 @@
 
 ## :coffee: 单片机
 
-- STM8库函数自学笔记
+- [STM8库函数自学笔记](Src/stm8-lib.md)
